@@ -5,6 +5,10 @@
 2. Gentoo
 3. Arch Linux
 
+### Number of Pre-installed packages
+1. Ubuntu
+2. Arch Linux, Gentoo
+
 ### Wiki Support
 1. Arch Linux
 2. Gentoo
