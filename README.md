@@ -28,6 +28,11 @@
 4. Ubuntu
 5. Debian
 
+### Package update stability
+1. Manjaro
+2. Arch Linux, Ubuntu
+3. Gentoo
+
 ### Nvidia Support
 1. Pop!_OS
 2. Ubuntu
